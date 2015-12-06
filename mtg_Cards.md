@@ -24,6 +24,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
 - [上天の閃光/AEther Flash][AEther Flash]，キャシーのコントロール下です．
 - [腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]\*の36体のコピー，全てアレックスのコントロール下で，全て二重に[改竄][Artificial Evolution]されていて，全て[テフェリーの呪い/Teferi's Curse][Teferi's Curse]か[不可視の外套/Cloak of Invisibility][Cloak of Invisibility]によってフェイジングを持ち，18体は[次元のほころび/Reality Ripple][Reality Ripple]によってフェイズ・アウトしています．
   最初にフェイズ・インしている18体は[Yurii Rogozhinの (2, 18) 万能チューリングマシン](http://www.sciencedirect.com/science/article/pii/S0304397596000771)の状態q1の時の状態遷移をエンコードしています:
+
   - Ape	類人猿(A0)が死亡するたび，Siren	サイレン(S1)を1体戦場に出す．_(訳注: S2か?．フェイズ・アウトのペガサス参照)_
   - Bat	コウモリ(B0)が死亡するたび，Elf	エルフ(E2)を1体戦場に出す．
   - Cat	猫(C0)が死亡するたび，Slith	スリス(S1)を1体戦場に出す．
@@ -42,7 +43,9 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
   - Pegasus	ペガサス(P0)が死亡するたび，Rhino	サイ(R2M)を1体戦場に出す．
   - Rat	ネズミ(R0)が死亡するたび，Assassin	暗殺者(HALT)を1体戦場に出す．
   - Shade	シェイド(S0)が死亡するたび，Camel	ラクダ(C2)を1体戦場に出す．
+
   同様に，フェイズ・アウトしている18体は，状態q2のときの状態遷移をエンコードしています:
+
   - Ape	類人猿(A0)が死亡するたび，Camel	ラクダ(C2)を1体戦場に出す．
   - Bat	コウモリ(B0)が死亡するたび，Camel	ラクダ(C2)を1体戦場に出す．
   - Cat	猫(C0)が死亡するたび，Bringer	運び手(B1)を1体戦場に出す．
@@ -61,6 +64,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
   - Pegasus	ペガサス(P0)が死亡するたび，Siren	サイレン(S2)を1体戦場に出す．
   - Rat	ネズミ(R0)が死亡するたび，Sliver	スリヴァー(S1M)を1体戦場に出す．
   - Shade	シェイド(S0)が死亡するたび，Myr	マイア(M1)を1体戦場に出す．
+
   最初の16体の腐れ肺の再生術師は4人が4枚ずつ通常の方法で唱え，[バザールの交易商人/Bazaar Trader][Bazaar Trader]で寄付します．
   残りの20体は[クローン/Clone][Clone]と[ヴェズーヴァの多相の戦士/Vesuvan Shapeshifter][Vesuvan Shapeshifter]で腐れ肺の再生術師をコピーしてください．
   [テフェリーの呪い/Teferi's Curse][Teferi's Curse]，[不可視の外套/Cloak of Invisibility][Cloak of Invisibility]，[エンチャント複製/Copy Enchantment][Copy Enchantment]を含むフェイジングを与えるエンチャントは，任意のプレイヤーが唱え，[バザールの交易商人/Bazaar Trader][Bazaar Trader]で寄付します．
@@ -71,6 +75,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
   これらはトークンでも大丈夫です．
   例えば，[銀白の突然変異/Argent Mutation][Argent Mutation]と[カーンの接触/Karn's Touch][Karn's Touch]を使い，その後[複製の儀式/Rite of Replication][Rite of Replication]や[瓜二つ/Spitting Image][Spitting Image]を唱えることでたくさん作ることができます．
   ドラルヌの十字軍は次のようなテキストになっています:
+
   - すべてのA1は，イエティ(Yeti)でもA0でもある．
   - すべてのA2は，ゾンビ(Zombie)でもA0でもある．
   - すべてのB1は，イエティ(Yeti)でもB0でもある．
@@ -92,6 +97,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
 - 8枚の[腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]\*，全てボブのコントロール下です．
   これらはフェイズ・アウトしないので，トークンでも大丈夫です．
   これらは以下のように[改竄][Artificial Evolution]されています:
+
   - Basilisk	バジリスク(B1M)が死亡するたび，Blinkmoth	ちらつき蛾(B1)を1体戦場に出す．
   - F2Mが死亡するたび，F2を1体戦場に出す．
   - I1Mが死亡するたび，I1を1体戦場に出す．

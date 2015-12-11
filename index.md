@@ -7,7 +7,7 @@ Magic: the Gatheringはチューリング完全
 Magic Turing Machine v5: 腐れ肺の再生術師/Rotlung Reanimator と 屍滑り/Necroskitter
 -----------------------------------------------------------------------------------
 
-[概要](mtg_index.md) - [カード](mtg_Cards.md) - [動作原理](mtg_HowItWorks.md) - [難点](mtg_Difficulties.md) - [過去のバージョン](mtg_Future.md) - [今後の方向性](mtg_Future.md#Future) - [これらのページについて](mtg_About.md)
+[概要](index.md) - [カード](Cards.md) - [動作原理](HowItWorks.md) - [難点](Difficulties.md) - [過去のバージョン](Future.md) - [今後の方向性](Future.md#Future) - [これらのページについて](About.md)
 
 ### 「チューリング完全」とは？
 システムがある特定の複雑性を持っていることを示す言葉として，「[チューリング完全](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E5%AE%8C%E5%85%A8)」という言葉があります．
@@ -28,10 +28,10 @@ Magic Turing Machine のアイデアは，ゲームが選択肢をプレイヤ�
 これは，プレイヤーにいつでもゲームの終了を選択できることを意味するだけです．
 _(訳注: 訳せなかった．原文は It just requires the players to always choose to take the game up on any options they're offered.)_
 
-(「してもよい」カードを取り除けるかどうかの考察を見たければ，[今後の方向性](mtg_Future.md#Future)を見てください)
+(「してもよい」カードを取り除けるかどうかの考察を見たければ，[今後の方向性](Future.md#Future)を見てください)
 
 ## どのように動くのですか？
-よくぞ聞いてくれました！このウェブサイトで[このマシンに必要なすべてのカード](mtg_Cards.md)のリストと，[詳細な動作原理の説明](mtg_HowItWorks.md)が見られます．さらに[こんな変なものを作った奴は一体どんな奴なのか](mtg_About.md)もわかります．楽しんでね！
+よくぞ聞いてくれました！このウェブサイトで[このマシンに必要なすべてのカード](Cards.md)のリストと，[詳細な動作原理の説明](HowItWorks.md)が見られます．さらに[こんな変なものを作った奴は一体どんな奴なのか](About.md)もわかります．楽しんでね！
 
 ## ニュース
 **2012年9月20日: バージョン 5に更新**

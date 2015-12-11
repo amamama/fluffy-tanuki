@@ -68,7 +68,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
   [テフェリーの呪い/Teferi's Curse][Teferi's Curse]，[不可視の外套/Cloak of Invisibility][Cloak of Invisibility]，[エンチャント複製/Copy Enchantment][Copy Enchantment]を含むフェイジングを与えるエンチャントは，任意のプレイヤーが唱え，[バザールの交易商人/Bazaar Trader][Bazaar Trader]で寄付します．
   これらのクリーチャーとオーラをトークンにしてしまうと，フェイズ・アウトの時に消滅してしまうため，トークンにしないでください．
   _(訳注: 現在(2015/12/6)なら，[賢いなりすまし/Clever Impersonator][Clever Impersonator]でも代用できます)_
-  上に述べられたすべてのクリーチャーは，[公式のクリーチャー・タイプ](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/arcana/1038)にあります．なぜこれらを選んだかを知りたければ，[動作原理](mtg_HowItWorks.md#CreatureTypes)を見てください．
+  上に述べられたすべてのクリーチャーは，[公式のクリーチャー・タイプ](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/arcana/1038)にあります．なぜこれらを選んだかを知りたければ，[動作原理](HowItWorks.md#CreatureTypes)を見てください．
 - すべて[改竄][Artificial Evolution]されている沢山の[ドラルヌの十字軍/Dralnu's Crusade][Dralunu's Crusade]．
   これらはトークンでも大丈夫です．
   例えば，[銀白の突然変異/Argent Mutation][Argent Mutation]と[カーンの接触/Karn's Touch][Karn's Touch]を使い，その後[複製の儀式/Rite of Replication][Rite of Replication]や[瓜二つ/Spitting Image][Spitting Image]を唱えることでたくさん作ることができます．
@@ -123,7 +123,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
   例えば，[霊都の灯籠/Reito Lantern][Reito Lantern]などで実現できます．
 
 ## じゃあ，どのようにこれは動くのでしょう?
-[ここにある詳細を全部読んでください!](mtg_HowItWorks.md)
+[ここにある詳細を全部読んでください!](HowItWorks.md)
 
 _(訳注: Last Modified: 2015/12/6)_
 [Artificial Evolution]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39923

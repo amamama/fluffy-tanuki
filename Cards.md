@@ -125,7 +125,9 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
 ## じゃあ，どのようにこれは動くのでしょう?
 [ここにある詳細を全部読んでください!](HowItWorks.md)
 
+---
 _(訳注: Last Modified: 2015/12/6)_
+
 [Artificial Evolution]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39923
 [Djinn Illuminatus]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=340186
 [Izzet Guildmage]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=340191

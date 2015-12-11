@@ -28,7 +28,7 @@ Magic Turing Machine のアイデアは，ゲームが選択肢をプレイヤ�
 これは，プレイヤーにいつでもゲームの終了を選択できることを意味するだけです．
 _(訳注: 訳せなかった．原文は It just requires the players to always choose to take the game up on any options they're offered.)_
 
-(「してもよい」カードを取り除けるかどうかの考察を見たければ，[今後の方向性](mtg_Future.md#Future)を見てください．)
+(「してもよい」カードを取り除けるかどうかの考察を見たければ，[今後の方向性](mtg_Future.md#Future)を見てください)
 
 ## どのように動くのですか？
 よくぞ聞いてくれました！このウェブサイトで[このマシンに必要なすべてのカード](mtg_Cards.md)のリストと，[詳細な動作原理の説明](mtg_HowItWorks.md)が見られます．さらに[こんな変なものを作った奴は一体どんな奴なのか](mtg_About.md)もわかります．楽しんでね！

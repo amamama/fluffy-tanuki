@@ -1,7 +1,7 @@
 # fluffy-tanuki
 M:tG is Turing Complete in Japanese
 
-[Japanese](mtg_index.md)
+[Japanese](index.md)
 
 [Original](http://www.toothycat.net/~hologram/Turing/index.html)
 

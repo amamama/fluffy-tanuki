@@ -86,7 +86,8 @@ Yurii Rogozhinが[1996年に出した論文](http://www.sciencedirect.com/scienc
 チューリングマシンの心臓部のキーカードは，[腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]と[人口進化/Artificial Evolution][Artificial Evolution]です．
 たくさんの再生術師のコピーを使い，それぞれがそれぞれを監視し，クリーチャー・タイプの異なるペアを作成するように[変更][Artificial Evolution]します．
 
-実際には，なんと再生術師の43のコピーをヘッドに用いるのです! 彼らは次のようなルールがエンコードされるように変更されています:
+実際には，なんと再生術師の43体のコピーをヘッドに用いるのです!
+彼らは次のようなルールがエンコードされるように変更されています:
 
 - フェイズ・アウトしている再生術師16Bは，「Pegasus	ペガサス(P0)が死亡するたび，Siren	サイレン(S2)を1体戦場に出す」
 - フェイズ・アウトしている再生術師17Bは，「Rat	鼠(R0)が死亡するたび，[時空の満ち干/Time and Tide][Time and Tide]を唱え，Slith	スリス(S1)を1体戦場に出す」

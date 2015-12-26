@@ -67,6 +67,53 @@ Magic Turing Machine v5: 腐れ肺の再生術師/Rotlung Reanimator と 尖塔�
 即ち，全てのゾンビが+1/+1修正を受け，全てのイエティが-1/-1修正を受けることを除き，全く同じことが起こります．
 これでマシンは左に1ステップ動きます．
 
+トークンのパワーとタフネスは繊細な調整を必要とします．
+[腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]は通常は2/2のトークンを出します．
+マシンのヘッドによって生み出されたそれぞれのトークンは，2体の[ドラルヌの十字軍/Dralnu's Crusade][Dralunu's Crusade]の影響によって+2/+2の修正を受け，また，[死の支配の呪い/Curse of Death's Hold][Curse of Death's Hold]と[仕組まれた疫病/Engineered Plague][Engineered Plague]によって-2/-2修正を受けます．
+
+## チューリングマシンのヘッド
+Yurii Rogozhinが[1996年に出した論文](http://www.sciencedirect.com/science/article/pii/S0304397596000771)に載っている，最も簡単な2つの状態と18のテープの色を持つ万能チューリングマシンを使います．
+それぞれの色の空間をそれぞれの状態の時に読んだ時，どう動くかをこのマシンのルールは明記しています．
+このルールの最初の数行はこのようになっています:
+
+- 状態B，色16: 状態Bのまま，色を18にして，1つ右にずれる．
+- 状態B，色17: 状態Aになり，色を18にして，1つ左にずれる．
+- 状態B，色18: 状態Bのまま，色を13にして，1つ左にずれる．
+- 状態A，色16: 状態Bになり，色を17にして，1つ右にずれる．
+- 状態A，色17: 停止!
+- 状態A，色18: 状態Aのまま，色を 3にして，1つ右にずれる．
+
+チューリングマシンの心臓部のキーカードは，[腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]と[人口進化/Artificial Evolution][Artificial Evolution]です．
+たくさんの再生術師のコピーを使い，それぞれがそれぞれを監視し，クリーチャー・タイプの異なるペアを作成するように[変更][Artificial Evolution]します．
+
+実際には，なんと再生術師の43のコピーをヘッドに用いるのです! 彼らは次のようなルールがエンコードされるように変更されています:
+
+- フェイズ・アウトしている再生術師16Bは，「Pegasus	ペガサス(P0)が死亡するたび，Siren	サイレン(S2)を1体戦場に出す」
+- フェイズ・アウトしている再生術師17Bは，「Rat	鼠(R0)が死亡するたび，[時空の満ち干/Time and Tide][Time and Tide]を唱え，Slith	スリス(S1)を1体戦場に出す」
+- フェイズ・アウトしている再生術師18Bは，「Shade	影(S0)が死亡するたび，[時空の満ち干/Time and Tide][Time and Tide]を唱え，Moonfolk	ムーンフォーク(M1)を1体戦場に出す」
+- フェイズ・インしている再生術師16Aは，「Pegasus	ペガサス(P0)が死亡するたび，[時空の満ち干/Time and Tide][Time and Tide]を唱え，Rigger	装具工(R2)を1体戦場に出す」
+- フェイズ・インしている再生術師17Aは，「Rat	鼠(R0)が死亡したとき，マシンを終了する」
+- フェイズ・インしている再生術師18Aは，「Shade	影(S0)が死亡するたび，Carrier	キャリアー(C2)を1体戦場に出す」
+
+これと(2, 18)チューリングマシンとの対応ができていることがわかるでしょうか．新しく作られたトークンのタイプはそこの空間が何色なのか(AからQを飛ばしてSまで)と，どちらに動くのか(右か左か)，を示しています．
+[時空の満ち干/Time and Tide][Time and Tide]を唱えることは，状態を変えることに対応しています．
+
+![腐れ肺の再生術師/Rotlung Reanimator](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Rotlung%20Reanimator)
+![人口進化/Artificial Evolution](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Artificial%20Evolution)
+
+もちろん，普通は再生術師のテキストを「Shade	影(S0)が死亡するたび，[時空の満ち干/Time and Tide][Time and Tide]を唱え，Moonfolk	ムーンフォーク(M1)を1体戦場に出す」に改竄することはできません．
+誘発型能力の結果としてインスタントが唱えられるということは，このチューリングマシンが乗り越えなければならない最大のハードルです．
+
+## 状態の変更
+何回もこのインスタントを唱えるために，このチューリングマシンのバージョンでは，[尖塔の大長/Chancellor of the Spires][Chancellor of the Spires]を使います．
+これは，[梅澤俊郎/Toshiro Umezawa][Toshiro Umezawa]と[呪文冊子/Spellbinder][Spellbinder]を使っていた前のバージョンよりもずっと簡単です．
+
+![時空の満ち干/Time and Tide](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Time%20and%20Tide)
+![尖塔の大長/Chancellor of the Spires](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Chancellor%20of%20the%20Spires)
+
+[屍滑り/Necroskitter][Necroskitter]と[標本集め/Gather Specimens][Gather Specimens]を[尖塔の大長/Chancellor of the Spires][Chancellor of the Spires]を戦場に出すために用い，[荒廃の鎌/Blight Sickle][Blight Sickle]を装備した[タジュールの射手/Tajuru Archer][Tajuru Archer]でそれを死なせます．
+大長が解決された時にこのインスタントはキャシーの墓地にあるので，[時空の満ち干/Time and Tide][Time and Tide]を手に入れるのに，何も特別なトリックは必要としません．
+
 [Artificial Evolution]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39923
 [Djinn Illuminatus]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=340186
 [Izzet Guildmage]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=340191
@@ -97,3 +144,5 @@ Magic Turing Machine v5: 腐れ肺の再生術師/Rotlung Reanimator と 尖塔�
 [Time and Tide]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3653
 [Gather Specimens]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=187014
 [Reito Lantern]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382764
+[Toshiro Umezawa]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=94248
+[Spellbinder]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=76264

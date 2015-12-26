@@ -22,7 +22,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
 - [有毒グール/Noxious Ghoul][Noxious Ghoul]\*，ボブのコントロール下で，テキストはオリジナルの「~これ~か他のゾンビ１つが戦場に出るたび、すべてのゾンビでないクリーチャーはターン終了時まで-1/-1の修整を受ける。」のままです．
 - [有毒グール/Noxious Ghoul][Noxious Ghoul]\*，ボブのコントロール下で，テキストは「~これ~か他のイエティ１つが戦場に出るたび、すべてのイエティでないクリーチャーはターン終了時まで-1/-1の修整を受ける。」に[改竄][Artificial Evolution]されています．
 - [上天の閃光/AEther Flash][AEther Flash]，キャシーのコントロール下です．
-- [腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]\*の36体のコピー，全てアレックスのコントロール下で，全て二重に[改竄][Artificial Evolution]されていて，全て[テフェリーの呪い/Teferi's Curse][Teferi's Curse]か[不可視の外套/Cloak of Invisibility][Cloak of Invisibility]によってフェイジングを持ち，18体は[次元のほころび/Reality Ripple][Reality Ripple]によってフェイズ・アウトしています．
+- [腐れ肺の再生術師
   最初にフェイズ・インしている18体は[Yurii Rogozhinの (2, 18) 万能チューリングマシン](http://www.sciencedirect.com/science/article/pii/S0304397596000771)の状態q1の時の状態遷移をエンコードしています:
   - Ape	類人猿(A0)が死亡するたび，Siren	サイレン(S1)を1体戦場に出す．_(訳注: S2の間違い．[動作原理](HowItWorks.md)参照．以下同様)_
   - Bat	コウモリ(B0)が死亡するたび，Elf	エルフ(E2)_(訳注: E1の間違い)_を1体戦場に出す．
@@ -61,7 +61,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種ト�
   - Ox	雄牛(O0)が死亡するたび，Noggle	ノッグル(N1)を1体戦場に出す．
   - Pegasus	ペガサス(P0)が死亡するたび，Siren	サイレン(S2)を1体戦場に出す．
   - Rat	ネズミ(R0)が死亡するたび，Sliver	スリヴァー(S1M)を1体戦場に出す．
-  - Shade	シェイド(S0)が死亡するたび，Myr	マイア(M1)_(訳注: M2の間違い)_を1体戦場に出す．
+  - Shade	シェイド(S0)が死亡するたび，Myr	マイア(M1)_(訳注: Moonfolk	ムーンフォークの間違い)_を1体戦場に出す．
 
   最初の16体の腐れ肺の再生術師は4人が4枚ずつ通常の方法で唱え，[バザールの交易商人/Bazaar Trader][Bazaar Trader]で寄付します．
   残りの20体は[クローン/Clone][Clone]と[ヴェズーヴァの多相の戦士/Vesuvan Shapeshifter][Vesuvan Shapeshifter]で腐れ肺の再生術師をコピーしてください．

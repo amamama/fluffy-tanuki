@@ -115,6 +115,17 @@ Yurii Rogozhinが[1996年に出した論文](http://www.sciencedirect.com/scienc
 [屍滑り/Necroskitter][Necroskitter]と[標本集め/Gather Specimens][Gather Specimens]を[尖塔の大長/Chancellor of the Spires][Chancellor of the Spires]を戦場に出すために用い，[荒廃の鎌/Blight Sickle][Blight Sickle]を装備した[タジュールの射手/Tajuru Archer][Tajuru Archer]でそれを死なせます．
 大長が解決された時にこのインスタントはキャシーの墓地にあるので，[時空の満ち干/Time and Tide][Time and Tide]を手に入れるのに，何も特別なトリックは必要としません．
 
+だから,状態を変更する必要のあるリアニメイターは，通常の状態の[有毒グール/Noxious Ghoul][Noxious Ghoul]と[カズールの大将軍/Kazuul Warlord][Kazuul Warlord]の能力の誘発を避けるために，実際には違うクリーチャー・タイプのトークンを生成し，状態を変える能力を誘発させます．
+私はこれらの「メッセンジャー」クリーチャー・タイプを最後に「M」が付くようにして示します．
+
+- 再生術師の17Bは，実際には「Rat	鼠(R0)が死亡するたび，Sliver	スリヴァー(S1M)を1体戦場に出す」と書かれ，
+- 再生術師の16Aは，実際には「Pegasus	ペガサス(P0)が死亡するたび，Rhino サイ(R2M)を1体戦場に出す」と書かれています．
+
+これらのS1MやR2Mのような「メッセンジャー」トークンは，Yeti イエティやZombie ゾンビではありませんが，Reflection 反射です．
+よってこれらでは[有毒グール/Noxious Ghoul][Noxious Ghoul]と[カズールの大将軍/Kazuul Warlord][Kazuul Warlord]の能力は誘発せず，代わりにアレックスのReflection 反射を参照するように[改竄][Artificial Evolution]された[タジュールの射手/Tajuru Archer][Tajuru Archer]の能力が誘発します．
+メッセンジャー・トークンが死んだとき，実際の望むタイプのトークンを出すために更に幾つかの[腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]の能力を誘発させます．
+それらの誘発型能力が正しい順番でスタックに積まれるように，[標本集め/Gather Specimens][Gather Specimens]で[腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]のコントローラーをボブにします．
+
 [Artificial Evolution]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39923
 [Djinn Illuminatus]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=340186
 [Izzet Guildmage]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=340191

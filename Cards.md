@@ -22,7 +22,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種誘�
 - [有毒グール/Noxious Ghoul][Noxious Ghoul]\*，ボブのコントロール下で，テキストはオリジナルの「このカードか他のゾンビ１つが戦場に出るたび、すべてのゾンビでないクリーチャーはターン終了時まで-1/-1の修整を受ける。」のままです．
 - [有毒グール/Noxious Ghoul][Noxious Ghoul]\*，ボブのコントロール下で，テキストは「このカードか他のイエティ１つが戦場に出るたび、すべてのイエティでないクリーチャーはターン終了時まで-1/-1の修整を受ける。」に[改竄][Artificial Evolution]されています．
 - [上天の閃光/AEther Flash][AEther Flash]，キャシーのコントロール下です．
-- [腐れ肺の再生術師
+- [腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]\*の36体のコピー，全てアレックスのコントロール下で，全て二重に[改竄][Artificial Evolution]されていて，全て[テフェリーの呪い/Teferi's Curse][Teferi's Curse]か[不可視の外套/Cloak of Invisibility][Cloak of Invisibility]によってフェイジングを持ち，18体は[次元のほころび/Reality Ripple][Reality Ripple]によってフェイズ・アウトしています．
   最初にフェイズ・インしている18体は[Yurii Rogozhinの (2, 18) 万能チューリングマシン](http://www.sciencedirect.com/science/article/pii/S0304397596000771)の状態q1の時の状態遷移をエンコードしています:
   - Ape	類人猿(A0)が死亡するたび，Siren	サイレン(S1)を1体戦場に出す．_(訳注: S2の間違い．[動作原理](HowItWorks.md)参照．以下同様)_
   - Bat	コウモリ(B0)が死亡するたび，Elf	エルフ(E2)_(訳注: E1の間違い)_を1体戦場に出す．

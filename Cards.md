@@ -24,8 +24,8 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種誘�
 - [上天の閃光/AEther Flash][AEther Flash]，キャシーのコントロール下です．
 - [腐れ肺の再生術師/Rotlung Reanimator][Rotlung Reanimator]\*の36体のコピー，全てアレックスのコントロール下で，全て二重に[改竄][Artificial Evolution]されていて，全て[テフェリーの呪い/Teferi's Curse][Teferi's Curse]か[不可視の外套/Cloak of Invisibility][Cloak of Invisibility]によってフェイジングを持ち，18体は[次元のほころび/Reality Ripple][Reality Ripple]によってフェイズ・アウトしています．
   最初にフェイズ・インしている18体は[Yurii Rogozhinの (2, 18) 万能チューリングマシン](http://www.sciencedirect.com/science/article/pii/S0304397596000771)の状態q1の時の状態遷移をエンコードしています:
-  - Ape	類人猿(A0)が死亡するたび，Siren	サイレン(S1)を1体戦場に出す．_(訳注: S2の間違い．[動作原理](HowItWorks.md)参照．以下同様)_
-  - Bat	コウモリ(B0)が死亡するたび，Elf	エルフ(E2)_(訳注: E1の間違い)_を1体戦場に出す．
+  - Ape	類人猿(A0)が死亡するたび，Siren	サイレン(S1)を1体戦場に出す． _(訳注: S2の間違い．[動作原理](HowItWorks.md)参照．以下同様)_
+  - Bat	コウモリ(B0)が死亡するたび，Elf	エルフ(E2) _(訳注: E1の間違い)_ を1体戦場に出す．
   - Cat	猫(C0)が死亡するたび，Slith	スリス(S1)を1体戦場に出す．
   - Demon	デーモン(D0)が死亡するたび，Archer	射手(A2)を1体戦場に出す．
   - Eye	眼(E0)が死亡するたび，devil	デビル(D1)を1体戦場に出す．
@@ -38,15 +38,15 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種誘�
   - Leech	ヒル(L0)が死亡するたび，Insect	昆虫(I1M)を1体戦場に出す．
   - Mutant	ミュータント(M0)が死亡するたび，Basilisk	バジリスク(B1M)を1体戦場に出す．
   - Ninja	忍者(N0)が死亡するたび，Orc	オーク(O2)を1体戦場に出す．
-  - Ox	雄牛(O0)が死亡するたび，Praetor	法務官(P1)_(訳注: P2の間違い)_を1体戦場に出す．
+  - Ox	雄牛(O0)が死亡するたび，Praetor	法務官(P1) _(訳注: P2の間違い)_ を1体戦場に出す．
   - Pegasus	ペガサス(P0)が死亡するたび，Rhino	サイ(R2M)を1体戦場に出す．
   - Rat	ネズミ(R0)が死亡するたび，Assassin	暗殺者(HALT)を1体戦場に出す．
-  - Shade	シェイド(S0)が死亡するたび，Camel	ラクダ(C2)_(訳注: C1の間違い)_を1体戦場に出す．
+  - Shade	シェイド(S0)が死亡するたび，Camel	ラクダ(C2) _(訳注: C1の間違い)_ を1体戦場に出す．
 
   同様に，フェイズ・アウトしている18体は，状態q2のときの状態遷移をエンコードしています:
-  - Ape	類人猿(A0)が死亡するたび，Camel	ラクダ(C2)_(訳注: C1の間違い)_を1体戦場に出す．
-  - Bat	コウモリ(B0)が死亡するたび，Camel	ラクダ(C2)_(訳注: C1の間違い)_を1体戦場に出す．
-  - Cat	猫(C0)が死亡するたび，Bringer	運び手(B1)_(訳注: B2の間違い)_を1体戦場に出す．
+  - Ape	類人猿(A0)が死亡するたび，Camel	ラクダ(C2) _(訳注: C1の間違い)_ を1体戦場に出す．
+  - Bat	コウモリ(B0)が死亡するたび，Camel	ラクダ(C2) _(訳注: C1の間違い)_ を1体戦場に出す．
+  - Cat	猫(C0)が死亡するたび，Bringer	運び手(B1) _(訳注: B2の間違い)_ を1体戦場に出す．
   - Demon	デーモン(D0)が死亡するたび，Efreet	イフリート(E2)を1体戦場に出す．
   - Eye	眼(E0)が死亡するたび，Ally	同盟者(A1)を1体戦場に出す．
   - Fish	魚(F0)が死亡するたび，Knight	騎士(K2M)を1体戦場に出す．
@@ -61,13 +61,13 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種誘�
   - Ox	雄牛(O0)が死亡するたび，Noggle	ノッグル(N1)を1体戦場に出す．
   - Pegasus	ペガサス(P0)が死亡するたび，Siren	サイレン(S2)を1体戦場に出す．
   - Rat	ネズミ(R0)が死亡するたび，Sliver	スリヴァー(S1M)を1体戦場に出す．
-  - Shade	シェイド(S0)が死亡するたび，Myr	マイア(M1)_(訳注: Moonfolk	ムーンフォークの間違い)_を1体戦場に出す．
+  - Shade	シェイド(S0)が死亡するたび，Myr	マイア(M1) _(訳注: Moonfolk	ムーンフォークの間違い)_ を1体戦場に出す．
 
   最初の16体の腐れ肺の再生術師は4人が4枚ずつ通常の方法で唱え，[バザールの交易商人/Bazaar Trader][Bazaar Trader]で寄付します．
   残りの20体は[クローン/Clone][Clone]と[ヴェズーヴァの多相の戦士/Vesuvan Shapeshifter][Vesuvan Shapeshifter]で腐れ肺の再生術師をコピーしてください．
   [テフェリーの呪い/Teferi's Curse][Teferi's Curse]，[不可視の外套/Cloak of Invisibility][Cloak of Invisibility]，[エンチャント複製/Copy Enchantment][Copy Enchantment]を含むフェイジングを与えるエンチャントは，任意のプレイヤーが唱え，[バザールの交易商人/Bazaar Trader][Bazaar Trader]で寄付します．
   これらのクリーチャーとオーラをトークンにしてしまうと，フェイズ・アウトの時に消滅してしまうため，トークンにしないでください．
-  _(訳注: 現在(2015/12/6)なら，[賢いなりすまし/Clever Impersonator][Clever Impersonator]でも代用できます)_
+  _(訳注: 統率者2017発売に伴う総合ルール更新によって消滅しなくなったのでトークンで代用可)_
   上に述べられたすべてのクリーチャーは，[公式のクリーチャー・タイプ](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/arcana/1038)にあります．なぜこれらを選んだかを知りたければ，[動作原理](HowItWorks.md#CreatureTypes)を見てください．
 - すべて[改竄][Artificial Evolution]されている沢山の[ドラルヌの十字軍/Dralnu's Crusade][Dralunu's Crusade]．
   これらはトークンでも大丈夫です．
@@ -126,7 +126,7 @@ AP-NAPルールのおかげで，正しい順序でスタック上の各種誘�
 [ここにある詳細を全部読んでください!](HowItWorks.md)
 
 ---
-_(訳注: Last Modified: 2015/12/6)_
+_(訳注: Last Modified: 2018/5/31)_
 
 [Artificial Evolution]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39923
 [Djinn Illuminatus]:http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=340186
